@@ -1,4 +1,4 @@
-# Lead Scraper Open Source Project
+# OpenLeads - Lead Scraper Open Source Project
 
 ## Overview
 
@@ -74,6 +74,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any questions or feedback, please reach out via the [GitHub Issues](https://github.com/codextde/openleads/issues) or contact us at your.email@example.com.
+For any questions or feedback, please reach out via the [GitHub Issues](https://github.com/codextde/openleads/issues).
 
 We hope you find this tool useful and look forward to your contributions!
